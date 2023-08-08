@@ -1,4 +1,4 @@
-public class individu_2113010262 {
+public class naufali262IVG_individu {
     public static void main(String[] args) {
         String nama = "Naufali Dimas Mahendra";
         String nim = "2113010262";
